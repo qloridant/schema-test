@@ -458,7 +458,7 @@
     ],
     "custom_checks":[
         {
-            "name":"french_gps_coordinates",
+            "name":"french-gps-coordinates",
             "params":{
                 "column":"coordonneesXY"
             }
