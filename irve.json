@@ -374,7 +374,7 @@
         {
             "name": "accessibilite_pmr",
             "description": "Accessibilité du point de recharge aux personnes à mobilité réduite. Dans le cas d'un point de recharge signalisé et réservé PMR, indiquer \"Réservé PMR\". \nDans le cas d'une point de recharge non réservé PMR mais accessible PMR, indiquer \"Accessible mais non réservé PMR\". \nDans le cas d'un point de recharge non accessible PMR, indiquer \"Non accessible\"",
-            "example": false,
+            "example": "Réservé PMR",
             "type": "string",
             "constraints": {
                 "required": true,
