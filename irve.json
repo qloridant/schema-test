@@ -193,7 +193,7 @@
         {
             "name": "code_insee_commune",
             "description": "Le code INSEE de la commune d'implantation.",
-            "example": "06088, 2B002 (pour une commune corse)",
+            "example": "06088",
             "type": "string",
             "constraints": {
                 "pattern": "^([013-9]\\d|2[AB1-9])\\d{3}$",
