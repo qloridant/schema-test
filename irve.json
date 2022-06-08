@@ -213,7 +213,7 @@
         {
             "name": "nbre_pdc",
             "description": "Le nombre de points de recharge sur la station.",
-            "example": "1, 10",
+            "example": "10",
             "type": "integer",
             "constraints": {
                 "required": true,
